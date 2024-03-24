@@ -1,0 +1,11 @@
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\bin\Debug\iCollect.exe.config
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\bin\Debug\iCollect.exe
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\bin\Debug\iCollect.pdb
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.csproj.AssemblyReference.cache
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.Form1.resources
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.Properties.Resources.resources
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.csproj.GenerateResource.cache
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.csproj.CoreCompileInputs.cache
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.exe
+C:\Users\Martin\OneDrive - VISOKA SOLA ZA POSLOVNE VEDE\Namizje\iCollect\iCollect\iCollect\obj\Debug\iCollect.pdb
